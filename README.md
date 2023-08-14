@@ -1,4 +1,4 @@
-## Repository containing scripts and materials related to the manuscript titled: Near chromosome-level genome assembly of the microsporidium Hamiltosporidium tvaerminnensis.
+## Repository containing scripts and materials related to the [manuscript](https://doi.org/10.1093/g3journal/jkad185) titled: Near chromosome-level genome assembly of the microsporidium Hamiltosporidium tvaerminnensis.
 
 
 ### Abstract
